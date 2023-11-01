@@ -1,4 +1,4 @@
-Tools ini dibuat untuk mempermudah kita dalam mengerjakan challenge CTF. Yang mana biasanya beberapa challange ctf mengharuskan kita untuk melakukan decoding pada text-text yang berupa hex, binary, bahkan md5 has. Oleh karena itu tools ini dibuat agar kita dapat dengan mudah melakukan encoding maupun decoding hanya melalui terminal kita ( buka di chrome makan RAM cuy 🤓).
+Tools ini dibuat untuk mempermudah kita dalam mengerjakan challenge CTF. Yang mana biasanya beberapa challange ctf mengharuskan kita untuk melakukan decoding pada text-text yang berupa hex, binary, bahkan md5. Oleh karena itu tools ini dibuat agar kita dapat dengan mudah melakukan encoding maupun decoding hanya melalui terminal kita ( buka di chrome makan RAM cuy 🤓).
 
 Tools ini berisikan :
 1. Hex converter
